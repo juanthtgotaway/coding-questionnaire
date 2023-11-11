@@ -1,6 +1,6 @@
 :root {
-    --background: rgb(242, 226, 213);
-    --maincolor: rgb(63, 36, 26);
+    --background: rgb(109,128,140);
+    --maincolor: rgb(242, 226, 213);
     --btncolor: rgb(242,153,75);
 
 }
@@ -28,11 +28,12 @@ body {
     color: var(--maincolor);
     font-family:'Courier New', Courier, monospace;
     font-weight: bolder;
+    border-radius: 10px;
 }
 
 .scores {
     position: absolute;
-    top: 0%;
+    top: 3%;
     left: 3%;
 }
 
