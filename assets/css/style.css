@@ -1,0 +1,43 @@
+:root {
+    --background: rgb(242, 226, 213);
+    --maincolor: rgb(63, 36, 26);
+    --btncolor: rgb(242,153,75);
+
+}
+
+body {
+    font-family:'Courier New', Courier, monospace;
+    background-color: var(--background);
+    color: var(--maincolor);
+}
+
+.question-box {
+    vertical-align: middle;
+    margin: auto;
+    height: auto;
+    width: fit-content;
+    max-width: 50%;
+    padding-top: 10%;
+    font-weight: bold;
+    text-align: center;
+    justify-content:center;
+}
+
+.start {
+    background-color: var(--btncolor);
+    color: var(--maincolor);
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+.scores {
+    position: absolute;
+    top: 0%;
+    left: 3%;
+}
+
+.time {
+    position: absolute;
+    top: 0%;
+    right: 3%;
+}
