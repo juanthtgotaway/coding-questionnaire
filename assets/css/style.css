@@ -2,6 +2,7 @@
     --background: rgb(109,128,140);
     --maincolor: rgb(242, 226, 213);
     --btncolor: rgb(242,153,75);
+    --hoverbtn: rgb(136, 87, 44);
 
 }
 
@@ -30,6 +31,10 @@ body {
     font-weight: bolder;
     border-radius: 10px;
 }
+.start:hover {
+    background-color: var(--hoverbtn);
+    transform: scale(1.05);
+}
 
 .scores {
     position: absolute;
@@ -41,4 +46,20 @@ body {
     position: absolute;
     top: 0%;
     right: 3%;
+}
+
+.option-button {
+    background-color: var(--btncolor);
+    color: var(--maincolor);
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+    border-radius: 10px;
+    display: block;
+    line-break: normal;
+    margin: 4%;
+}
+
+.option-button:hover {
+    background-color: var(--hoverbtn);
+    transform: scale(1.05);
 }
