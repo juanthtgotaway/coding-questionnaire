@@ -40,7 +40,16 @@ This code can be used to generate quick quizes with a time reduction penalty.
 <br>
 
 ## Credits
-https://color.adobe.com/search?q=villa
+https://color.adobe.com/search?q=villa :
+/* Color Theme Swatches in RGBA */
+.Modern-exterior-of-a-luxury-villa-in-a-minimal-style.-Glass-house-in-the-mountains.-Magnificent-mountain-views-from-the-veranda-of-a-modern-villa.-Luxury-glamping-1-rgba { color: rgba(109, 128, 140, 1); }
+.Modern-exterior-of-a-luxury-villa-in-a-minimal-style.-Glass-house-in-the-mountains.-Magnificent-mountain-views-from-the-veranda-of-a-modern-villa.-Luxury-glamping-2-rgba { color: rgba(242, 153, 75, 1); }
+.Modern-exterior-of-a-luxury-villa-in-a-minimal-style.-Glass-house-in-the-mountains.-Magnificent-mountain-views-from-the-veranda-of-a-modern-villa.-Luxury-glamping-3-rgba { color: rgba(165, 126, 92, 1); }
+.Modern-exterior-of-a-luxury-villa-in-a-minimal-style.-Glass-house-in-the-mountains.-Magnificent-mountain-views-from-the-veranda-of-a-modern-villa.-Luxury-glamping-4-rgba { color: rgba(242, 226, 213, 1); }
+.Modern-exterior-of-a-luxury-villa-in-a-minimal-style.-Glass-house-in-the-mountains.-Magnificent-mountain-views-from-the-veranda-of-a-modern-villa.-Luxury-glamping-5-rgba { color: rgba(63, 36, 26, 1); }
+
+<br>
+
 https://stackoverflow.com/questions/36951199/javascript-using-settimeout-in-a-for-loop-to-show-text-at-regular-intervals
 https://unicode.org/emoji/charts/full-emoji-list.html#smileys_&_emotion
 https://codedamn.com/news/javascript/what-is-settimeout-in-javascript
