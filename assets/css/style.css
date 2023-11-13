@@ -1,3 +1,4 @@
+/* sets colors that can be changed at any time aka the theme */
 :root {
     --background: rgb(109,128,140);
     --maincolor: rgb(242, 226, 213);
@@ -6,12 +7,14 @@
 
 }
 
+/*applies styles to anything in the body tags*/
 body {
     font-family:'Courier New', Courier, monospace;
     background-color: var(--background);
     color: var(--maincolor);
 }
 
+/*applies styles to question box theme*/
 .question-box {
     vertical-align: middle;
     margin: auto;
@@ -31,6 +34,7 @@ body {
     font-weight: bolder;
     border-radius: 10px;
 }
+
 .start:hover {
     background-color: var(--hoverbtn);
     transform: scale(1.05);
@@ -62,4 +66,45 @@ body {
 .option-button:hover {
     background-color: var(--hoverbtn);
     transform: scale(1.05);
+}
+
+#feedbackText {
+    color: var(--hoverbtn);
+    font-style: italic;
+    font-size: small;
+}
+
+#scoreSubmission {
+    vertical-align: middle;
+    margin: auto;
+    height: auto;
+    width: fit-content;
+    max-width: 50%;
+    padding-top: 10%;
+    font-weight: bold;
+    text-align: center;
+    justify-content:center;
+}
+/* applies same button styles for all the ID's  */
+#submitButton, #clearScores, #backToQuiz {
+    background-color: var(--btncolor);
+    color: var(--maincolor);
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+    border-radius: 10px;
+    line-break: normal;
+    margin: 4%;
+}
+
+/* applies styles to the high score section */
+#highScoreScreen {
+    vertical-align: middle;
+    margin: auto;
+    height: auto;
+    width: fit-content;
+    max-width: 50%;
+    padding-top: 10%;
+    font-weight: bold;
+    text-align: center;
+    justify-content:center;
 }

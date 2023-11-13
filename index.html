@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Coding Questionnaire</title>
+    <!-- tab name -->
     <link rel="stylesheet" href="./assets/css/style.css"/>
 </head>
 <body>
@@ -13,13 +14,21 @@
             Keep in mind that incorrect answers will penalize your score time by ten seconds!
         </p>
         <div id="question-container"></div>
+        <div id="feedbackText"></div>
         <button class="start">Start Quiz</button>
     </div>
-    <div class="scores" style="position: absolute;top: 0%;left: 3%;">
+    <div class="scores" style="position: absolute;top: 0%;left: 3%;"> 
+    <!-- had to manually apply style since sometimes it used html and sometimes it didnt pick up the css syles only for this div -->
         <p>View Highscores</p>
     </div>
     <div class="time" style="top: 3%;">
-        <!-- <p>Time:</p> -->
+    </div>
+    <div id="highScoreScreen" style="display: none;">
+    <!-- makes this scorescreen hidden until requested by the JS  -->
+        <h2>High Scores</h2>
+        <div id="highScoresList"></div>
+        <button id="backToQuiz">Back to Quiz</button>
+        <button id="clearScores">Clear High Scores</button>
     </div>
     <script src="assets/js/script.js"></script>
 </body>
