@@ -42,11 +42,11 @@ This code can be used to generate quick quizes with a time reduction penalty.
 ## Credits
 https://color.adobe.com/search?q=villa :
 /* Color Theme Swatches in RGBA */
-.Modern-exterior-of-a-luxury-villa-in-a-minimal-style.-Glass-house-in-the-mountains.-Magnificent-mountain-views-from-the-veranda-of-a-modern-villa.-Luxury-glamping-1-rgba { color: rgba(109, 128, 140, 1); }
-.Modern-exterior-of-a-luxury-villa-in-a-minimal-style.-Glass-house-in-the-mountains.-Magnificent-mountain-views-from-the-veranda-of-a-modern-villa.-Luxury-glamping-2-rgba { color: rgba(242, 153, 75, 1); }
-.Modern-exterior-of-a-luxury-villa-in-a-minimal-style.-Glass-house-in-the-mountains.-Magnificent-mountain-views-from-the-veranda-of-a-modern-villa.-Luxury-glamping-3-rgba { color: rgba(165, 126, 92, 1); }
-.Modern-exterior-of-a-luxury-villa-in-a-minimal-style.-Glass-house-in-the-mountains.-Magnificent-mountain-views-from-the-veranda-of-a-modern-villa.-Luxury-glamping-4-rgba { color: rgba(242, 226, 213, 1); }
-.Modern-exterior-of-a-luxury-villa-in-a-minimal-style.-Glass-house-in-the-mountains.-Magnificent-mountain-views-from-the-veranda-of-a-modern-villa.-Luxury-glamping-5-rgba { color: rgba(63, 36, 26, 1); }
+{ color: rgba(109, 128, 140, 1); }
+{ color: rgba(242, 153, 75, 1); }
+{ color: rgba(165, 126, 92, 1); }
+{ color: rgba(242, 226, 213, 1); }
+{ color: rgba(63, 36, 26, 1); }
 
 <br>
 
