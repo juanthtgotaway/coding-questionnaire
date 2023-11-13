@@ -37,6 +37,10 @@ In order to install this project you will have to clone the repository:
     4. Press enter to create your local clone
 <br>
 
+
+https://github.com/juanthtgotaway/coding-questionnaire/assets/121774171/5d4fe200-31fd-43e8-9448-fbde16a06dde
+
+
 ## Usage
 This code can be used to generate quick quizes with a time reduction penalty.
 <br>
