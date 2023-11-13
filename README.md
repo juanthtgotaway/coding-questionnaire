@@ -18,12 +18,7 @@ This project was made for us to push ourselves and see how we could apply what w
 
 **In JS:** this challenge most definitely pushed me the hardest. As it was very demanding on the funtions. The biggest resource was the mini assignment as it allowed me to kinda know where to begin. Start on the start event listener and work my way back and trace the equations back to see what we needed to solve for. A small thing I noticed is the importance of the """" tags. I use them for anything text related as it lets me see what is physical text in my JS vs something that is being refrenced. At first I was using """" for everything and this would not allow certain functions to execute properly. There were 2 big frustrations along the way that I was able to look into and see why things werent working. The first was the fact that my "incorrect" or "correct" text wasnt working. I later realized it was due to the page loading to fast and I had to add a timeout function to allow the funtion to execute then allow the other part to execute after the text is displayed. The second part was  that the showhighscores still displayed after the user submted their initials. This function took forever to figure out but it was a simple fix to tell it to not display (display = 'none')
 
-![alt text](./assets/images/High%20Scores.png)
-
-<video src="Final%20render.mp4" controls title="Title"></video>
-
-![alt text](./assets/images/clear%20Highscores.png)
-
+https://github.com/juanthtgotaway/coding-questionnaire/assets/121774171/5d4fe200-31fd-43e8-9448-fbde16a06dde
 
 <br>
 
@@ -38,7 +33,6 @@ In order to install this project you will have to clone the repository:
 <br>
 
 
-https://github.com/juanthtgotaway/coding-questionnaire/assets/121774171/5d4fe200-31fd-43e8-9448-fbde16a06dde
 
 
 ## Usage
